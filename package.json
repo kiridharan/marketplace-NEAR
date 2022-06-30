@@ -1,0 +1,14 @@
+{
+  "name": "NEAR",
+  "version": "1.0.0",
+  "description": "near demo project",
+  "main": "index.js",
+  "author": "kiridharan",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  },
+  "dependencies": {
+    "near-cli": "^3.4.0"
+  }
+}
